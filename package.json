@@ -1,10 +1,10 @@
 {
-  "name": "fuzzyfilepath",
+  "name": "thancock20-fuzzyfilepath",
   "main": "./lib/fuzzyfilepath",
   "version": "2.0.1",
-  "description": "Import the right path to you files",
+  "description": "Import the right path to your files",
   "keywords": [],
-  "repository": "https://github.com/joadr/fuzzyfilepath",
+  "repository": "https://github.com/thancock20/fuzzyfilepath",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
