@@ -1,6 +1,8 @@
 {
   ".fuzzy-finder atom-text-editor": {
     "ctrl-i": "fuzzyfilepath:import",
-    "ctrl-alt-i": "fuzzyfilepath:import-from"
+    "ctrl-alt-i": "fuzzyfilepath:import-from",
+    "ctrl-p": "fuzzyfilepath:file-path",
+    "ctrl-m": "fuzzyfilepath:markdown-link"
   }
 }
