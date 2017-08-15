@@ -1,8 +1,3 @@
 {
-  ".fuzzy-finder atom-text-editor": {
-    "ctrl-f i": "fuzzyfilepath:import",
-    "ctrl-f f": "fuzzyfilepath:import-from",
-    "ctrl-f p": "fuzzyfilepath:file-path",
-    "ctrl-f m": "fuzzyfilepath:markdown-link"
-  }
+
 }
