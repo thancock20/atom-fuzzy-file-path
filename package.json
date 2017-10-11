@@ -1,6 +1,6 @@
 {
-  "name": "thancock20-fuzzyfilepath",
-  "main": "./lib/fuzzyfilepath",
+  "name": "magic-file-path",
+  "main": "./lib/magic-file-path",
   "version": "2.0.1",
   "description": "Import the right path to your files",
   "keywords": [],
